@@ -40,3 +40,7 @@ Developed by: RegisterNumber:
 **TIMING DIGRAMS FOR SISO Shift Register**
 
 **RESULTS**
+Logic Diagram 
+<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/efd46811-fee2-4cb0-8111-dad79d9087f9" />
+Clock Pulse
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/aaa2fa05-6d55-46e8-8209-fe362a7da809" />
